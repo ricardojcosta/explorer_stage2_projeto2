@@ -1,4 +1,4 @@
-# Projeto 02 - Curso Explorer - Rocketseat - Stage 2
+# Curso Explorer - Rocketseat - Stage 2
 
 ## Tecnologias utilizadas no projeto
 
@@ -6,6 +6,5 @@ Objetivo deste projeto é praticar o possicionamento dos elementos na tela, ajus
 
 * HTML
 * CSS
-
 
 
